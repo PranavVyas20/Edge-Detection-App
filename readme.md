@@ -1,4 +1,4 @@
-A simple android application to detect edges in an imgage using [Canny Algorithm](https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html)
+A simple android application to detect edges in an image using [Canny Algorithm](https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html)
 
 ## Made with modern android development tools:
 
