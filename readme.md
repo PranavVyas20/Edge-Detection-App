@@ -19,3 +19,6 @@ A simple android application to detect edges in an imgage using [Canny Algorithm
 - Use image url 
 
 ## Screenshots:
+![gallery](https://user-images.githubusercontent.com/90063033/196002911-9215fc03-f597-4f60-873e-012ff0c38b13.gif)
+![url](https://user-images.githubusercontent.com/90063033/196002919-b4330599-1f7e-4b98-955b-61a1c236ab59.gif)
+![camera](https://user-images.githubusercontent.com/90063033/196002925-03606df3-59e2-4e51-a803-b9e83b9c41c2.gif)
