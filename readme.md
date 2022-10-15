@@ -26,8 +26,8 @@ A simple android application to detect edges in an imgage using [Canny Algorithm
      <td>Image Url</td>
   </tr>
   <tr>
-    <td><img src="ss/camera.gif" width=270 height=480></td>
-    <td><img src="ss/gallery.gif" width=270 height=480></td> 
-    <td><img src="ss/url.gif" width=270 height=480></td>
+    <td><img src="ss/camera.gif" width=270 height=520></td>
+    <td><img src="ss/gallery.gif" width=270 height=520></td> 
+    <td><img src="ss/url.gif" width=270 height=520></td>
   </tr>
  </table>
