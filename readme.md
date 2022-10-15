@@ -18,6 +18,8 @@ A simple android application to detect edges in an image using [Canny Algorithm]
 
 - Use image url 
 
+- Save converted image to local database
+
 ## Screenshots:
 <table>
   <tr>
